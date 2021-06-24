@@ -26,6 +26,10 @@ Reach at source code [here](https://github.com/shantunparmar/github-profile)
 
 Don't forgot to install npm modules and dependencies 
 
+# preview 
+![prviews](https://user-images.githubusercontent.com/55224162/123215461-197b2700-d4e6-11eb-9b2c-3bd137b89a4a.png)
+
+
 Follow this blog to understand the code
 
 **Connect with me:**
