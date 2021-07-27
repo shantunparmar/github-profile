@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "",
   "main": "index-.js",
+    "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
   "dependencies": {
     "axios": "^0.21.1",
     "body-parser": "^1.19.0",
