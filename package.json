@@ -1,0 +1,23 @@
+{
+  "name": "github-profiles",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shantunparmar/github-profile.git"
+  },
+  "author": "shantun parmar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shantunparmar/github-profile/issues"
+  },
+  "homepage": "https://github.com/shantunparmar/github-profile#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
