@@ -1,6 +1,8 @@
 var express = require('express');
 var app = express();
 app.set('view engine', 'ejs');
+const server = require("http").Server(app);
+
 app.use(express.static(__dirname + '/views'));
 const axios = require('axios');
 
