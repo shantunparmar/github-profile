@@ -52,9 +52,4 @@ axios.get(content.data.followers_url)
 });
 
 
-var server = app.listen(process.env.PORT, function () {
-   var host = server.address().address
-   var port = server.address().port
-   
-   console.log("Example app listening at http://%s:%s", host, port)
-});
+server.listen(process.env.PORT || 3030);
