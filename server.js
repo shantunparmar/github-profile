@@ -6,7 +6,6 @@ const server = require("http").Server(app);
 app.use(express.static(__dirname + '/views'));
 const axios = require('axios');
 
-
 app.get('/', function (req, res) {
  const username = req.query.name;
 global.dataS = [];
